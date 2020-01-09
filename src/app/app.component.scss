@@ -1,0 +1,19 @@
+div {
+    background-image: url(../assets/splash.jpg);
+    background: {
+        color: lightblue;
+    };
+    margin-bottom: 0;
+
+    h1 {
+        font-weight: lighter;
+        color: green($color: #000000);
+    }
+}
+
+footer {
+    font-weight: bolder;
+    color: red;
+    text-align: center;
+    margin-bottom: 0;
+}
